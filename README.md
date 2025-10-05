@@ -96,9 +96,9 @@ You can use the ChatSaver bookmarklet!
 ---
 
 ### 🧩 Roadmap
-* [ ] Basic UX with search etc... ?
+* [ ] Basic UX with search OR load into open-webui backend
 * [ ] Detect **conversation titles** for file naming
-* [ ] Auto-deduplicate repeated messages
+* [ ] Iterate through all currently loaded conversations?
 
 ---
 
