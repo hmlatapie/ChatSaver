@@ -1,6 +1,6 @@
 ## 🗂️ ChatSaver
 
-**ChatSaver** is a tiny, universal browser **bookmarklet** that exports your AI chat conversations — from **ChatGPT (chat.openai.com / chatgpt.com)** and **Grok (grok.com)** — directly to your clipboard and downloads them as **JSON** or **Markdown** files.
+**ChatSaver** is a tiny, universal browser **bookmarklet** that exports your AI chat conversations — from **ChatGPT (chatgpt.com)** and **Grok (grok.com)** — directly to your clipboard and downloads them as **JSON** or **Markdown** files.
 
 No extensions. No installs. Just click → export.
 
