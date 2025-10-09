@@ -126,7 +126,7 @@ You can use the ChatSaver bookmarklet!
 ```
 
 ### 3. Save All Bookmarklet (Multi-Convo Export)
-For bulk-exporting multiple conversations at once (OpenAI sidebar) or the current session (Grok), use this advanced bookmarklet. It auto-detects the platform: supports both grok.com and chatgpt.com, but multiple conversation support only works on OpenAI (via hidden iframes for visible sidebar chats). Grok exports only the current conversation due to CSP restrictions—no multi-convo there.
+For bulk-exporting multiple conversations at once OpenAI sidebar, use this advanced bookmarklet. It supports chatgpt.com.
 
 **Note**: Depending on how many conversations are loaded into the current page (e.g., a long OpenAI sidebar), this may take a while—up to 30 seconds per convo for loading and extraction. Watch progress via the browser console (F12 to open, or Shift+Ctrl+K on Firefox).
 
