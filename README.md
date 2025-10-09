@@ -126,7 +126,7 @@ You can use the ChatSaver bookmarklet!
 ```
 
 ### 3. Save All Bookmarklet (Multi-Convo Export)
-For bulk-exporting multiple conversations at once OpenAI sidebar, use this advanced bookmarklet. It supports chatgpt.com.
+For bulk-exporting multiple conversations from the OpenAI sidebar, use this advanced bookmarklet. 
 
 **Note**: Depending on how many conversations are loaded into the current page (e.g., a long OpenAI sidebar), this may take a while—up to 30 seconds per convo for loading and extraction. Watch progress via the browser console (F12 to open, or Shift+Ctrl+K on Firefox).
 
