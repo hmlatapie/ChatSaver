@@ -30,7 +30,7 @@
     const sleep = (ms) => new Promise(r => setTimeout(r, ms));
 
     const IFRAME_LOAD_TIMEOUT = 30000;   // 30s per convo load
-    const DOM_STABLE_TIMEOUT  = 25000;   // 25s to finish autoscroll/materialization
+    const DOM_STABLE_TIMEOUT  = 120000;   // 25s to finish autoscroll/materialization
     const DOM_STABLE_POLL_MS  = 500;
 
     const getAbs = (href) => {
