@@ -108,7 +108,7 @@ You can use the ChatSaver bookmarklet!
 * Works in any Chromium-based or Firefox browser.
 * Uses `Blob` download and Clipboard API for export.
 * Gracefully falls back if clipboard permission denied.
-
+* Use [bookmarklet-maker](https://github.com/caiorss/bookmarklet-maker)
 ---
 
 ### 🧑‍💻 Credits
